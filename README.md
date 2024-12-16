@@ -1,8 +1,9 @@
-# Markdown syntax guide
+# CIC102-06
+
 
 ## Headers
 
-# This is a Heading h1
+# CIC102-06
 ## This is a Heading h2
 ###### This is a Heading h6
 
